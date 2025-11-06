@@ -1,0 +1,14 @@
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\bin\Debug\net9.0\Coursera.exe
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\bin\Debug\net9.0\Coursera.deps.json
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\bin\Debug\net9.0\Coursera.runtimeconfig.json
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\bin\Debug\net9.0\Coursera.dll
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\bin\Debug\net9.0\Coursera.pdb
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\Coursera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\Coursera.AssemblyInfoInputs.cache
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\Coursera.AssemblyInfo.cs
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\Coursera.csproj.CoreCompileInputs.cache
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\Coursera.dll
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\refint\Coursera.dll
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\Coursera.pdb
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\Coursera.genruntimeconfig.cache
+C:\Users\rnsilva\Desktop\Learn\C#_Tests\Coursera\Coursera\obj\Debug\net9.0\ref\Coursera.dll
